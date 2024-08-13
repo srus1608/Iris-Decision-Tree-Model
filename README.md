@@ -28,7 +28,7 @@ The requirements.txt file should include:
 
 ## Usage
 Clone the repository:
-git clone https://[github.com/yourusername/iris-classification-decision-tree](https://github.com/srus1608/Iris-Decision-Tree-Model).git
+git clone https://github.com/srus1608/Iris-Decision-Tree-Model.git
 
 cd iris-classification-decision-tree
 
